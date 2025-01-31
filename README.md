@@ -8,4 +8,5 @@ I'm Victor Cavalcante, 17 y/o (2025), and I’ve been passionate about technolog
 
 🤹 Multitasking, enjoy teamwork, and have a deep interest in web development and software projects.
 💡 I love learning, coding, and improving my skills every day.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
