@@ -11,7 +11,8 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 💡 I love learning, programming and improving my skills every day.
 
 
-🚀 Technologies and languages
+
+ *#🚀 Technologies and languages*
 _____________________________________________________________________________________________________________________________________________________________________
 🖥 Languages
 <div style="display: inline_block"><br/>
