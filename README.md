@@ -54,6 +54,6 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 
 <p align="center">
   <img src="https://media.giphy.com/media/zvVwEUYAXjKLLPumXJ/giphy.gif" width="280" height="150" />
-  <br>Foi um prazer, até um outro dia ☕
+  <br>Até a próxima linha de código! 💻
 </p>
 
