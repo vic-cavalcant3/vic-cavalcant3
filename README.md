@@ -37,13 +37,7 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
   <img align="center" alt="MIRO" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
   <img align="center" alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
-  <br><br>
-
-
-
-
-
-
+  <br>
 
 
  ## ** ☎️ Contacts**
