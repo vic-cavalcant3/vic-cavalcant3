@@ -52,10 +52,8 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
   <br>
   <br>
 
-
-<div id="dados" align="center">
-        <img src="https://media2.giphy.com/media/sXZ90Ki0iJmILNt2ib/giphy.gif?cid=ecf05e47l6d4oryl33cbutltomu0tegdc4pxe7nr3qtajrxn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="140">    
-    <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixchaard&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
-      <img src="https://media2.giphy.com/media/sXZ90Ki0iJmILNt2ib/giphy.gif?cid=ecf05e47l6d4oryl33cbutltomu0tegdc4pxe7nr3qtajrxn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="140">
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/zvVwEUYAXjKLLPumXJ/giphy.gif" width="175" height="175" />
+  <br>Foi um prazer, até um outro dia 🫡☕
+</p>
 
