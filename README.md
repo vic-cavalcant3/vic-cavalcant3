@@ -49,6 +49,9 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 ### ** ☎️ Contacts**
 <div style="display: inline_block">
   <a href = "mailto:victorrocha0223@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
    <a href = "mailto:https://wa.me/qr/P36YOTQWJ6OAO1"><img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+   <a href = "https://www.linkedin.com/in/victor-cavalcante-69b601318/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
