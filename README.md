@@ -15,7 +15,8 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 
  ## **🚀 Technologies and languages**
  
-### **🖥 Languages** <div style="display: inline_block"><br/>
+### **🖥 Languages** 
+<div style="display: inline_block"><br/>
   <img align="center" alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS3"   src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -23,12 +24,12 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 </div>
 
 
-💾 Databases
+### **💾 Databases**
 <div style="display: inline_block"><br/>
   <img align="center" alt="MYSQL"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-✨ Plataformas que Utilizo
+### **✨ Plataformas que Utilizo**
 <div style="display: inline_block"><br/>
   <img align="center" alt="FIGMA"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img align="center" alt="TRELLO"  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
