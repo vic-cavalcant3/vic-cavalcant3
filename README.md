@@ -15,7 +15,7 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic-cavalcant3&layout=compact&theme=tokyonight)
 
 
 
