@@ -11,6 +11,9 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 💡 I love learning, programming and improving my skills every day.  <br> <br>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&theme=tokyonight)
+
+
 
 
  ## **🚀 Technologies and languages**
