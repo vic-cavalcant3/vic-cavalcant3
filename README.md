@@ -14,7 +14,7 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 </div>
 
 
-
+![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-cavalcant3&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic-cavalcant3&layout=compact&theme=tokyonight)
 
 
@@ -64,4 +64,6 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
   <img src="https://media.giphy.com/media/zvVwEUYAXjKLLPumXJ/giphy.gif" width="280" height="150" />
   <br>Até a próxima linha de código! 💻
 </p>
+
+<img src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/snake.svg" alt="Snake animation" />
 
