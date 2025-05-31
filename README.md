@@ -57,5 +57,5 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
   <br>Até a próxima linha de código! 💻
 </p>
 
-<img src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vic-cavalcant3/vic-cavalcant3/output/snake.svg" alt="Snake animation" />
 
