@@ -46,6 +46,7 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 ![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=FFFFFF)&nbsp;
 ![Android-Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=00BFFF)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=0D1117)
+![Spring Initializr](https://img.shields.io/badge/Spring_Initializr-0D1117?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-0D1117?style=for-the-badge&logo=git&logoColor=white)
