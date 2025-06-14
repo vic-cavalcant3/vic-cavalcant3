@@ -16,8 +16,8 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 <div align="center">  
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vic-cavalcant3&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117&cache_seconds=3600" alt="Victor Cavalcante github stats" /> 
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic-cavalcant3&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&cache_seconds=1600" />
-</div>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic-cavalcant3&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&cache_seconds=1600&t=atualizar123" />
+
 
 
 
