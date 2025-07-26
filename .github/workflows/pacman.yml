@@ -18,6 +18,7 @@ jobs:
         with:
           username: vic-cavalcant3
           color: yellow # você pode trocar por "green", "blue", "red", etc.
+          theme: dark
 
       - name: Commit and push
         run: |
