@@ -1,15 +1,15 @@
 ##  ⭐ Welcome to my GitHub ⭐ 
 
 <div align="left">
-I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about technology since I was 14 years old. I am currently studying the 3rd semester of the technical course in Systems Development at SENAI.
+Olá! Eu sou o Victor Cavalcante, Tenho 17 anos (2025) e sou apaixonado por tecnologia desde os 14. Atualmente curso o 3º semestre do Técnico em Desenvolvimento de Sistemas no SENAI.
 
-📚 Studying Systems Development (Technical) 3/4.
+📚 Estudando Desenvolvimento de Sistemas (Técnico) – 4/4
 
-💻 I have experience in JavaScript and am always exploring new programming languages.
+💻 Experiência em JavaScript, explorando constantemente novas linguagens e ferramentas
 
-🤹 Multitasking, I like working in a team and I have a deep interest in web development and software projects.
+🤹 Gosto de trabalhar em equipe, aprender coisas novas e tenho grande interesse em desenvolvimento web e projetos de software
 
-💡 I love learning, programming and improving my skills every day.  <br> <br>
+💡 Apaixonado por aprender, programar e aprimorar minhas habilidades todos os dias  <br> <br>
 
 </div>
 
@@ -22,9 +22,9 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 
 
 
- ## **🚀 Technologies and languages**
+ ## **🚀 Tecnologias e linguagens**
  
-### **🖥 Languages** 
+### **🖥 Linguagens** 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
@@ -38,7 +38,7 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 
 
 
-### **✨ Technologies**
+### **✨ Tecnologias**
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -55,7 +55,7 @@ I'm Victor Cavalcante, 17 years old (2025) and I have been passionate about tech
 
 
 
-### **📕 Studying**
+### **📕 Estudo**
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
