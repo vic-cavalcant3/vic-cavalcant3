@@ -1,7 +1,8 @@
 ##  ⭐ Welcome to my GitHub ⭐ 
 
 <div align="left">
-Olá! Eu sou o Victor Cavalcante, Tenho 17 anos (2025) e sou apaixonado por tecnologia desde os 14. Atualmente curso o 3º semestre do Técnico em Desenvolvimento de Sistemas no SENAI.
+Olá! Eu sou o Victor Cavalcante, Tenho 17 anos (2025) e sou apaixonado por tecnologia desde os 14. Atualmente curso o 3º semestre do Técnico em Desenvolvimento de Sistemas no SENAI.  <br> <br>
+
 
 📚 Estudando Desenvolvimento de Sistemas (Técnico) – 4/4
 
