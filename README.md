@@ -1,18 +1,20 @@
-##  ⭐ Welcome to my GitHub ⭐ 
+## ⭐ Welcome to my GitHub ⭐
 
 <div align="left">
-Olá! Eu sou o Victor Cavalcante, Tenho 17 anos (2025) e sou apaixonado por tecnologia desde os 14. Atualmente curso o 3º semestre do Técnico em Desenvolvimento de Sistemas no SENAI.  <br> <br>
+Olá! Eu sou o Victor Cavalcante, tenho 17 anos (2025) e sou apaixonado por tecnologia desde os 14.  
+Sou **formado no Técnico em Desenvolvimento de Sistemas pelo SENAI**, onde construí uma base sólida em lógica, programação e desenvolvimento de software. <br><br>
 
+🎓 **Técnico em Desenvolvimento de Sistemas – SENAI (Concluído)**
 
-📚 Estudando Desenvolvimento de Sistemas (Técnico) – 4/4
+💻 Experiência com JavaScript, PHP, MySQL, React Native e Node.js, sempre explorando novas tecnologias e boas práticas
 
-💻 Experiência em JavaScript, explorando constantemente novas linguagens e ferramentas
+🤝 Gosto de trabalhar em equipe, aprender continuamente e transformar ideias em soluções funcionais
 
-🤹 Gosto de trabalhar em equipe, aprender coisas novas e tenho grande interesse em desenvolvimento web e projetos de software
+🚀 Grande interesse em desenvolvimento web, mobile e projetos de software bem estruturados
 
-💡 Apaixonado por aprender, programar e aprimorar minhas habilidades todos os dias  <br> <br>
-
+💡 Apaixonado por aprender, programar e evoluir minhas habilidades todos os dias  
 </div>
+
 
 <div align="center">  
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vic-cavalcant3&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117&cache_seconds=3600" alt="Victor Cavalcante github stats" /> 
