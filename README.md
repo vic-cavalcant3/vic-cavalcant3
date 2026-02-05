@@ -16,7 +16,7 @@ Sou **formado no Técnico em Desenvolvimento de Sistemas pelo SENAI**, onde cons
 </div>
 
 
-<div align="center">  
+<div align="center" display="flex">  
   <img 
     width="49%" 
     height="195px" 
