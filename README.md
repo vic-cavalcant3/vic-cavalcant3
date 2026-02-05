@@ -1,10 +1,10 @@
 ## ⭐ Welcome to my GitHub ⭐
 
 <div align="left">
-Olá! Eu sou o Victor Cavalcante, tenho 17 anos (2025) e sou apaixonado por tecnologia desde os 14.  
-Sou **formado no Técnico em Desenvolvimento de Sistemas pelo SENAI**, onde construí uma base sólida em lógica, programação e desenvolvimento de software. <br><br>
+Olá! Eu sou o Victor Cavalcante, tenho 18 anos (2026) e sou apaixonado por tecnologia desde os 14.  
+Sou formado no Técnico em Desenvolvimento de Sistemas pelo SENAI, onde construí uma base sólida em lógica, programação e desenvolvimento de software.  
+Atualmente, estou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) pelo SENAI Mariano Ferraz – Vila Leopoldina. <br><br>
 
-🎓 **Técnico em Desenvolvimento de Sistemas – SENAI (Concluído)**
 
 💻 Experiência com JavaScript, PHP, MySQL, React Native e Node.js, sempre explorando novas tecnologias e boas práticas
 
@@ -14,6 +14,7 @@ Sou **formado no Técnico em Desenvolvimento de Sistemas pelo SENAI**, onde cons
 
 💡 Apaixonado por aprender, programar e evoluir minhas habilidades todos os dias  
 </div>
+
 
 
 <p align="center">
