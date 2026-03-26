@@ -1,18 +1,17 @@
 ## ⭐ Welcome to my GitHub ⭐
 
 <div align="left">
-Olá! Eu sou o Victor Cavalcante, tenho 18 anos (2026) e sou apaixonado por tecnologia desde os 14.  
-Sou formado no Técnico em Desenvolvimento de Sistemas pelo SENAI, onde construí uma base sólida em lógica, programação e desenvolvimento de software.  
-Atualmente, estou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) pelo SENAI Mariano Ferraz – Vila Leopoldina. <br><br>
+Hi! I'm Victor Cavalcante, 18 years old and passionate about technology since I was 14.
+I completed a Technical Degree in Systems Development at SENAI, where I built a solid foundation in logic, programming and software development.
+I'm currently pursuing a Bachelor's degree in Systems Analysis and Development (ADS) at SENAI Mariano Ferraz – Vila Leopoldina. <br><br>
 
+💻 Experienced with JavaScript, PHP, MySQL, React Native and Node.js, always exploring new technologies and best practices
 
-💻 Experiência com JavaScript, PHP, MySQL, React Native e Node.js, sempre explorando novas tecnologias e boas práticas
+🤝 I enjoy working in teams, learning continuously and turning ideas into functional solutions
 
-🤝 Gosto de trabalhar em equipe, aprender continuamente e transformar ideias em soluções funcionais
+🚀 Passionate about web and mobile development and well-structured software projects
 
-🚀 Grande interesse em desenvolvimento web, mobile e projetos de software bem estruturados
-
-💡 Apaixonado por aprender, programar e evoluir minhas habilidades todos os dias  
+💡 Always looking to learn, code and grow my skills every day
 </div>
 
 
@@ -32,11 +31,9 @@ Atualmente, estou graduando em Tecnologia em Análise e Desenvolvimento de Siste
 
 
 
+## **🚀 Technologies & Languages**
 
-
- ## **🚀 Tecnologias e linguagens**
- 
-### **🖥 Linguagens** 
+### **🖥 Languages**
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -47,9 +44,7 @@ Atualmente, estou graduando em Tecnologia em Análise e Desenvolvimento de Siste
 
 
 
-
-
-### **✨ Tecnologias**
+### **✨ Technologies**
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -64,9 +59,7 @@ Atualmente, estou graduando em Tecnologia em Análise e Desenvolvimento de Siste
 
 
 
-
-
-### **📕 Estudo**
+### **📕 Currently Studying**
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
@@ -76,11 +69,9 @@ Atualmente, estou graduando em Tecnologia em Análise e Desenvolvimento de Siste
 
 <p align="center">
   <img src="https://media.giphy.com/media/zvVwEUYAXjKLLPumXJ/giphy.gif" width="280" height="150" />
-  <br>Até a próxima linha de código! 💻
+  <br>See you in the next line of code! 💻
 </p>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/vic-cavalcant3/vic-cavalcant3/output/snake.svg" />
 </div>
-
-
