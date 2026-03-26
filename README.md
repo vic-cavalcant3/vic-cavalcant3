@@ -68,7 +68,6 @@ Atualmente, estou graduando em Tecnologia em Análise e Desenvolvimento de Siste
 
 ### **📕 Estudo**
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
