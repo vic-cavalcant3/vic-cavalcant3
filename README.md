@@ -19,17 +19,15 @@ I'm currently pursuing a Bachelor's degree in Systems Analysis and Development (
 <p align="center">
   <img 
     width="49%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vic-cavalcant3&show_icons=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" 
+    src="https://github-readme-stats.vercel.app/api?username=vic-cavalcant3&show_icons=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" 
     alt="Victor Cavalcante github stats" 
   />
   <img 
     width="41%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vic-cavalcant3&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic-cavalcant3&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" 
     alt="Victor Cavalcante top languages"
   />
 </p>
-
-
 
 ## **🚀 Technologies & Languages**
 
